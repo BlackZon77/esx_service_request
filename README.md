@@ -4,7 +4,7 @@
 
 ### Requirements
 * BZ Calls
-  * [bz_calls](https://github.com/BlackZon77/esx_service_request)
+  * [bz_calls](https://github.com/BlackZon77/esx_service_request/tree/master/bz_calls)
   
 * ESX Addons gcphone
   * [esx_addons_gcphone](https://github.com/N3MTV/gcphone/releases/download/2.21/gcphone.zip)
